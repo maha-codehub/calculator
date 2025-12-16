@@ -64,7 +64,7 @@ Set up an Android Emulator or connect a physical device
 
 2️⃣ Clone the Repository
 
-git clone https://github.com/your-username/your-repo-name.git
+git clone https://github.com/maha-codehub/calculator.git
 
 3️⃣ Navigate to Project Directory
 
