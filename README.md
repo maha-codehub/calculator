@@ -68,7 +68,7 @@ git clone https://github.com/maha-codehub/calculator.git
 
 3️⃣ Navigate to Project Directory
 
-cd your-repo-name
+cd calc
 
 4️⃣ Install Dependencies
 
